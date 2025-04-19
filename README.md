@@ -1,5 +1,6 @@
 # Data-Driven House Price Prediction for Real Estate Insights
 
+![ChatGPT Image Apr 19, 2025, 11_58_36 AM](https://github.com/user-attachments/assets/1104ebf9-16c2-4ef2-8e55-39b67c838cfe)
 
 
 ## Project Overview
